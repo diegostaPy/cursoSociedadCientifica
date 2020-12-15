@@ -7,4 +7,4 @@ Experimento de clase:
 
 1. [Haga Click aqui para responder al siguiente cuestionario](https://forms.gle/irUuu1zv3dZfCBWH7)
 
-2. [Haga un click aqui para analizar los datos ](https://colab.research.google.com/github/AllenDowney/InspectionParadox/blob/master/inspection.ipynb)
+2. [Haga un click aqui para analizar los datos ](https://colab.research.google.com/github/diegostaPy/cursoSociedadCientifica/blob/main/paradojaInspeccion.ipynb)
